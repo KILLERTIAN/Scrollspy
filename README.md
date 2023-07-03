@@ -1,7 +1,7 @@
 # Scrollspy
 
-This is made with help of a tutorial availabe on YouTube
+This is made with the help of a tutorial available on YouTube
 
-Link :
+Link : https://killertian.github.io/Scrollspy/
 
 Preview : 
