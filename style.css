@@ -56,6 +56,7 @@ header nav a.active::before {
     background: transparent;
     border-bottom-right-radius: 20px;
     box-shadow: 5px 5px 0 5px var(--clr);
+    transition: 0.25s;
 }
 
 header nav a.active::after {
@@ -66,8 +67,9 @@ header nav a.active::after {
     width: 20px;
     height: 20px;
     background: transparent;
-    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
     box-shadow: -5px 5px 0 5px var(--clr);
+    transition: 0.25s;
 }
 
 section {
