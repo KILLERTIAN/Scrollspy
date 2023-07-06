@@ -16,4 +16,5 @@ Preview :
 
 ![image](https://github.com/KILLERTIAN/Scrollspy/assets/77867638/b8a87e5c-8440-4495-9a9c-11cf4c918327)
 
+# Licence 
 
